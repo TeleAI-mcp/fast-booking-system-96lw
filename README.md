@@ -1,2 +1,3 @@
-# fast-booking-system-96lw
-Automated issue comment bot repository
+# Fast Booking System 96Lw
+
+Automated issue comment bot repository.
